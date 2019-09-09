@@ -1,6 +1,8 @@
 body {
   font-family: sans-serif;
   background-color: #bfe1ff;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 a {
