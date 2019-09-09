@@ -3,6 +3,7 @@ body {
 }
 
 a {
+  color: black;
   text-decoration: underline;
 }
 
@@ -10,9 +11,17 @@ a:hover {
   text-decoration: none;
 }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+.wrapper {
+  width: 700px;
 }
+
+.head {
+  width: 200px;
+  float: left;
+}
+
+.content {
+  width: 300px;
+  float: right;
+}
+  
