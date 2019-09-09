@@ -15,18 +15,21 @@ a:hover {
 .wrapper {
   width: 700px;
   margin: 0 auto;
-  background-color: white;
+  padding: none;
+  margin-top: 0;
 }
 
 .head {
   width: 200px;
   float: left;
   background-color: white;
+  padding: 50px;
 }
 
 .content {
   width: 500px;
   float: left;
   background-color: white;
+  padding: 50px;
 }
   
