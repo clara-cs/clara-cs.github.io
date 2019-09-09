@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: #bfe1ff;
 }
 
 a {
@@ -14,6 +15,7 @@ a:hover {
 .wrapper {
   width: 700px;
   margin: 0 auto;
+  background-color: #fff;
 }
 
 .head {
