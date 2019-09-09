@@ -21,10 +21,12 @@ a:hover {
 .head {
   width: 200px;
   float: left;
+  background-color: white;
 }
 
 .content {
-  width: 300px;
+  width: 500px;
   float: left;
+  background-color: white;
 }
   
