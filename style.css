@@ -1,12 +1,13 @@
-* {
-  margin:0px;
-  padding:0px;
+body {
+  font-family: sans-serif;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 p {
