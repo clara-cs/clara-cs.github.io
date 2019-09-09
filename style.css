@@ -13,14 +13,14 @@ a:hover {
 }
 
 .wrapper {
-  width: 900px;
+  width: 850px;
   margin: 0 auto;
   padding: none;
   margin-top: 0;
 }
 
 .head {
-  width: 200px;
+  width: 150px;
   float: left;
   background-color: white;
   padding: 50px;
