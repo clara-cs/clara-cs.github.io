@@ -13,41 +13,50 @@ a {
 a:hover {
   text-decoration: none;
 }
-
-.wrapper {
-  height: 100%;
-  width: 850px;
-  margin: 0 auto;
-  padding: none;
-  margin-top: 0;
-}
-
-.head {
-  width: 150px;
-  float: left;
-  background-color: white;
-  padding: 50px;
-}
-
-.content {
-  width: 500px;
-  float: left;
-  background-color: white;
-  padding: 50px;
-}
   
-@media screen and (max-width: 890px;) {
-  .wrapper {
+@media screen and (min-width: 900px;) {
+  wrapper {
+    height: 100%;
+    width: 850px;
     margin: 0 auto;
     padding: none;
+    margin-top: 0;
   }
 
   .head {
+    width: 150px;
+    float: left;
     background-color: white;
     padding: 50px;
   }
 
   .content {
+    width: 500px;
+    float: left;
+    background-color: white;
+    padding: 50px;
+  }
+} 
+
+@media screen and (max-width: 899px;) {
+  wrapper {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    padding: none;
+    margin-top: 0;
+  }
+
+  .head {
+    width: 150px;
+    float: left;
+    background-color: white;
+    padding: 50px;
+  }
+
+  .content {
+    width: 500px;
+    float: left;
     background-color: white;
     padding: 50px;
     color:red;
