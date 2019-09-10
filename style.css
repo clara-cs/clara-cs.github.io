@@ -1,8 +1,8 @@
 body {
   font-family: sans-serif;
   background-color: #bfe1ff;
-  margin: 0 !important;
-  padding: 0 !important;
+ /* margin: 0 !important;
+  padding: 0 !important; */
 }
 
 a {
@@ -15,23 +15,44 @@ a:hover {
 }
 
 .wrapper {
-  width: 850px;
   margin: 0 auto;
   padding: none;
   margin-top: 0;
 }
 
 .head {
-  width: 150px;
   float: left;
   background-color: white;
   padding: 50px;
 }
 
 .content {
-  width: 500px;
   float: left;
   background-color: white;
   padding: 50px;
 }
   
+@media screen and (min-width: 900px;) {
+  .wrapper {
+    width: 850px;
+  }
+  .head {
+    width: 150px;
+  }
+  .content {
+    width: 500px;
+  }
+} 
+
+@media screen and (max-width: 899px;) {
+  .wrapper {
+    width: 90%;
+  }
+  .head {
+    width: 150px;
+  }
+  .content {
+    width: 100%;
+  }
+} 
+ 
