@@ -37,7 +37,6 @@ a:hover {
 
 @media screen and (max-width: 899px) {
   .wrapper {
-    height: 100%;
     width: 90%;
     margin: 0 auto;
     padding: none;
@@ -48,14 +47,12 @@ a:hover {
     text-align: center;
     background-color: white;
     padding: 25px;
-    display: block;
   }
 
   .content {
     width: 70%;
     background-color: white;
     padding: 25px;
-    display: block;
   }
 } 
  
