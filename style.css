@@ -14,7 +14,7 @@ a:hover {
   text-decoration: none;
 }
 
-  wrapper {
+  .wrapper {
     width: 850px;
     margin: 0 auto;
     padding: none;
@@ -35,7 +35,7 @@ a:hover {
   }
 
 @media screen and (max-width: 899px) {
-  wrapper {
+  .wrapper {
     height: 100%;
     width: 90%;
     margin: 0 auto;
