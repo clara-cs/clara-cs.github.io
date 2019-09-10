@@ -43,7 +43,7 @@ a:hover {
   }
 
   .head {
-    width: 70%;
+    width: 100%;
     text-align: center;
     background-color: white;
     padding: 25px;
@@ -52,7 +52,7 @@ a:hover {
   }
 
   .content {
-    width: 70%;
+    width: 100%;
     background-color: white;
     padding: 25px;
     float: none;
