@@ -35,7 +35,7 @@ a:hover {
     padding: 50px;
   }
 
-@media screen and (max-width: 899px) {
+@media screen and (max-width: 900px) {
   .wrapper {
     width: 90%;
     }
@@ -60,3 +60,27 @@ a:hover {
   }
 } 
  
+@media screen and (max-width: 500px) {
+  .wrapper {
+    width: 100%;
+    }
+
+  .head {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    float: none;
+    display: block;
+    padding: 15px;
+    background-color: white;
+  }
+
+  .content {
+    width: 100%;
+    margin: auto;
+    float: none;
+    clear: both;
+    background-color: white;
+    padding: 15px;
+  }
+} 
