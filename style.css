@@ -47,12 +47,14 @@ a:hover {
     text-align: center;
     background-color: white;
     padding: 25px;
+    float: none;
   }
 
   .content {
     width: 70%;
     background-color: white;
     padding: 25px;
+    float: none;
   }
 } 
  
