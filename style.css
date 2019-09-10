@@ -46,18 +46,14 @@ a:hover {
 
   .head {
     width: 150px;
-    float: left;
     background-color: white;
     padding: 50px;
-    position: absolute;
   }
 
   .content {
     width: 90%;
-    float: left;
     background-color: white;
     padding: 50px;
-    position: absolute;
   }
 } 
  
