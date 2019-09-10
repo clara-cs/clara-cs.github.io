@@ -1,4 +1,4 @@
-body {
+body {display: block;
   font-family: sans-serif;
   background-color: #bfe1ff;
  /* margin: 0 !important;
@@ -48,12 +48,14 @@ a:hover {
     text-align: center;
     background-color: white;
     padding: 25px;
+    display: block;
   }
 
   .content {
     width: 70%;
     background-color: white;
     padding: 25px;
+    display: block;
   }
 } 
  
