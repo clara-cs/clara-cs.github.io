@@ -13,8 +13,7 @@ a {
 a:hover {
   text-decoration: none;
 }
-  
-@media screen and (min-width: 900px) {
+
   wrapper {
     width: 850px;
     margin: 0 auto;
@@ -34,7 +33,6 @@ a:hover {
     background-color: white;
     padding: 50px;
   }
-} 
 
 @media screen and (max-width: 899px) {
   wrapper {
@@ -50,14 +48,15 @@ a:hover {
     float: left;
     background-color: white;
     padding: 50px;
+    position: relative;
   }
 
   .content {
-    width: 500px;
+    width: 100%;
     float: left;
     background-color: white;
     padding: 50px;
-    color:red;
+    position: relative;
   }
 } 
  
