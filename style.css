@@ -46,7 +46,7 @@ a:hover {
     width: 100%;
     text-align: center;
     background-color: white;
-    padding: 25px;
+    border: 25px white;
     float: none;
     display: block;
   }
@@ -54,7 +54,7 @@ a:hover {
   .content {
     width: 100%;
     background-color: white;
-    padding: 25px;
+    border: 25px white;
     float: none;
     display: block;
   }
