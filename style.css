@@ -37,23 +37,18 @@ a:hover {
   
 @media screen and (max-width: 890px;) {
   .wrapper {
-    width: 90%;
     margin: 0 auto;
     padding: none;
-    margin-top: 0;
   }
 
   .head {
     background-color: white;
     padding: 50px;
-    float:none;
   }
 
   .content {
-    width: 100%;
     background-color: white;
     padding: 50px;
-    float:none;
   }
 } 
  
