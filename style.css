@@ -41,6 +41,7 @@ a:hover {
     margin: 0 auto;
     padding: none;
     background-color: white;
+    position: relative;
   }
 
   .head {
